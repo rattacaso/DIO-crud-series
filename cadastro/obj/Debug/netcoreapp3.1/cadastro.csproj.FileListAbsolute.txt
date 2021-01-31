@@ -1,0 +1,13 @@
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/bin/Debug/netcoreapp3.1/cadastro
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/bin/Debug/netcoreapp3.1/cadastro.deps.json
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/bin/Debug/netcoreapp3.1/cadastro.runtimeconfig.json
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/bin/Debug/netcoreapp3.1/cadastro.runtimeconfig.dev.json
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/bin/Debug/netcoreapp3.1/cadastro.dll
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/bin/Debug/netcoreapp3.1/cadastro.pdb
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/obj/Debug/netcoreapp3.1/cadastro.csprojAssemblyReference.cache
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/obj/Debug/netcoreapp3.1/cadastro.AssemblyInfoInputs.cache
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/obj/Debug/netcoreapp3.1/cadastro.AssemblyInfo.cs
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/obj/Debug/netcoreapp3.1/cadastro.csproj.CoreCompileInputs.cache
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/obj/Debug/netcoreapp3.1/cadastro.dll
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/obj/Debug/netcoreapp3.1/cadastro.pdb
+/home/r4774c450/Documents/Bootcamp AVANADE/Crud/cadastroDotNet/cadastro/obj/Debug/netcoreapp3.1/cadastro.genruntimeconfig.cache
